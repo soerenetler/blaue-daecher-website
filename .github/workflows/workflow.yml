@@ -61,12 +61,12 @@ jobs:
           ### Follows the format here https://github.com/actions/cache
       - name: git status
         run: git status -uno --porcelain
-        
+
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
           ftp-server: sftp://ssh.strato.de
-          ftp-username: sftp_jekyll@blauedaecher.de
+          ftp-username: sftp_jekyll@blauedaecher.com
           ftp-password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./_site/
           git-ftp-args: --insecure
