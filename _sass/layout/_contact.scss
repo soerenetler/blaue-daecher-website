@@ -15,7 +15,7 @@
 			padding: 0 !important;
 
 			> :nth-child(2n - 1) {
-				@include padding(4em, 0, (0, 3em, 0, 0));
+				@include padding(3em, 0, (0, 3em, 0, 0));
 				border-right: solid 1px _palette(border);
 				width: 60%;
 				z-index: 1;
@@ -57,7 +57,7 @@
 				display: block;
 
 				> :nth-child(2n - 1) {
-					@include padding(4em, 0, (0, 0, 0, 0));
+					@include padding(1em, 0, (0, 0, 0, 0));
 					border-right: 0;
 					width: 100%;
 				}
@@ -69,7 +69,7 @@
 
 				> .split {
 					> * {
-						@include padding(3em, 0, (0, 0, 0, 0));
+						@include padding(1em, 0, (0, 0, 0, 0));
 
 						&:before {
 						}
@@ -87,7 +87,7 @@
 		@include breakpoint(small) {
 			> .inner {
 				> :nth-child(2n - 1) {
-					@include padding(3em, 0, (0, 0, 0, 0));
+					@include padding(1em, 0, (0, 0, 0, 0));
 				}
 			}
 		}

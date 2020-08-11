@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Moin, wir machen Bildung digital!'
 description: null
 image: null
 author: null

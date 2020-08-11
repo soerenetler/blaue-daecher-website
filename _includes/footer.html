@@ -2,6 +2,9 @@
 <section id="contact">
 	<div class="inner">
 		<section>
+			<div class="contact-method">
+			<span class="icon alt fa-envelope"></span>
+			<h3>Newsletter</h3>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -11,15 +14,16 @@
 					<label for="email">Email</label>
 					<input type="text" name="_replyto" id="email" />
 				</div>
-				<div class="field">
+				<!--div class="field">
 					<label for="message">Message</label>
 					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
+				</div-->
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="submit" value="Anmelden" class="special" /></li>
+					<!--li><input type="reset" value="Clear" /></li-->
 				</ul>
 			</form>
+		</div>
 		</section>
 		<section class="split">
 			<section>
@@ -31,12 +35,12 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<span class="icon alt fa-instagram"></span>
+					<h3>Instagram</h3>
+					<span><a href="{{ site.instagram_url }}">{{ site.instagram }}</a></span>
 				</div>
 			</section>
-			<section>
+			<!--section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
@@ -58,7 +62,7 @@
 					{% endif %}
 					</span>
 				</div>
-			</section>
+			</section-->
 		</section>
 	</div>
 </section>
@@ -66,7 +70,7 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="icons">
+			<!--ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
@@ -97,7 +101,7 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-			</ul>
+			</ul-->
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
