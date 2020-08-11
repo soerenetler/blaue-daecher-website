@@ -59,7 +59,9 @@ jobs:
           # restore-keys: ${{ runner.os }}-gems-
           ### In cases where you want to specify the cache key, enable the above 2 inputs
           ### Follows the format here https://github.com/actions/cache
-
+      - name: git status
+        run: git status -uno --porcelain
+        
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@3.1.1
         with:
