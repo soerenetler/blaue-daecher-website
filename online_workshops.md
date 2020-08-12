@@ -1,7 +1,7 @@
 ---
 title: Online-Workshops
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Wir konzipieren und moderieren wirkungsvolle Workshops im digitalen Raum. Interaktivität wird bei uns groß geschrieben.'
 image: assets/images/pic07.jpg
 nav-menu: true
 weight: 6
@@ -85,6 +85,6 @@ weight: 6
 	</div>
 </section>
 
-<iframe src="https://castbox.fm/app/castbox/player/id3154988?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+
 
 </div>
