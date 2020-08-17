@@ -1,14 +1,20 @@
 ---
 layout: post
-title: Über uns
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Wer sind wir?
+description: 
+image: assets/images/Teamfoto01.jpg
 nav-menu: true
 weight: 3
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Blaue Dächer wurde 2020 von Sören Etler und Erik Fandrich ins Leben gerufen. Die beiden teilen die Auffassung, dass digitale Bildungsangebote zur Demokratisierung von Bildung beitragen können und sollten. Doch häufig beschränken sich diese auf Online-Quizzes, Fragebögen oder Erklärvideos. Da geht eindeutig mehr! 
+Sören und Erik stehen für interaktive Formate, die sowohl effektiv als auch abwechslungsreich gestaltet sind. Dafür bringen die beiden Erfahrungen aus ganz unterschiedlichen Arbeitsbereichen mit.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<h3>Sören</h3>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<p><span class="image left"><img src="{% link assets/images/soeren01.jpg %}" alt="" /></span></p>
+
+<h3>Erik</h3>
+
+<p><span class="image right"><img src="{% link assets/images/erik01.jpg %}" alt="" /></span>Erik konzipiert und moderiert seit 2016 Workshops und Hochschulkurse. Dabei sammelte er Erfahrungen mit Lernenden und Gruppen aus allen Altersklassen - von Grundschüler*innen bis hin zu Erwachsenen. Seine didaktische Arbeitsweise lernte er während seines Psychologiestudiums und der Tätigkeit als Kommunikationstrainer an der Universität Potsdam. 
+</p>

@@ -1,7 +1,7 @@
 ---
 title: Online-Workshops
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Wir konzipieren und moderieren wirkungsvolle Workshops im digitalen Raum. Interaktivität wird bei uns groß geschrieben.
 image: assets/images/pic07.jpg
 nav-menu: true
 weight: 6
@@ -14,14 +14,14 @@ weight: 6
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Hier findet wird schon bald Innovation zu sehen sein!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Bis dahin findest du alle aktuellen Infos auf unserem Instagramkanal: @blauedaecher</p>
 	</div>
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -70,21 +70,21 @@ weight: 6
 			</div>
 		</div>
 	</section>
-</section>
+</section -->
 
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Hier findet wird schon bald Innovation zu sehen sein!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Bis dahin findest du alle aktuellen Infos auf unserem Instagramkanal: @blauedaecher</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
 
-<iframe src="https://castbox.fm/app/castbox/player/id3154988?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+
 
 </div>
