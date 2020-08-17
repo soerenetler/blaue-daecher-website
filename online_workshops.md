@@ -2,7 +2,7 @@
 title: Online-Workshops
 layout: landing
 description: Wir konzipieren und moderieren wirkungsvolle Workshops im digitalen Raum. Interaktivität wird bei uns groß geschrieben.
-image: assets/images/pic07.jpg
+image: 
 nav-menu: true
 weight: 6
 ---
