@@ -2,7 +2,7 @@
 layout: post
 title: Wer sind wir?
 description: 
-image: assets/images/Teamfoto01.jpg
+image: assets/images/Teamfoto02.jpg
 nav-menu: true
 weight: 3
 ---
@@ -12,7 +12,7 @@ Sören und Erik stehen für interaktive Formate, die sowohl effektiv als auch ab
 
 <h3>Sören</h3>
 
-<p><span class="image left"><img src="{% link assets/images/soeren01.jpg %}" alt="" /></span></p>
+<p><span class="image left"><img src="{% link assets/images/soeren01.jpg %}" alt="" /></span>Das hier ist ein Platzhalter. Dieser Platzhalter wird solange hier stehen bleiben, bis Sören sich an dieser Stelle vorstellt. Spoiler: Sören macht Digitalisierung. An der Universität Potsdam, dem Zentrum für Klimafolgenforschung, ebenfalls in Potsdam, und für das Peernetzwerk JETZT e.V., in dem er Vorstandsmitglied und Kassenwart ist.</p>
 
 <h3>Erik</h3>
 

@@ -1,7 +1,7 @@
 ---
-title: Online-Workshops
+title: Workshops
 layout: landing
-description: Wir konzipieren und moderieren wirkungsvolle Workshops im digitalen Raum. Interaktivität wird bei uns groß geschrieben.
+description: Wir konzipieren und moderieren im digitalen und analogen Raum zu digitalen Themen. Interaktivität steht dabei für uns im Vordergrund.
 image: 
 nav-menu: true
 weight: 6
