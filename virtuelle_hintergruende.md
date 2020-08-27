@@ -17,7 +17,7 @@ weight: 1
 		</header>
 
 <!-- Content -->
-<h2 id="content">Das authentische aber unaufgeräumter Zimmer im Hintergrund, oder doch lieber einen professionellen Hintergrund?</h2>
+<h2 id="content">Das authentische Zimmer oder einen professionellen Hintergrund?</h2>
 <p>Mit einem durchdachten virtuellen Hintergrund fällst du den anderen Teilnehmenden auf. Egal, ob im nächsten Meeting, oder beim nächsten Workshop - du signalisierst, dass du dir Gedanken über deinen Auftritt gemacht hast.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -27,6 +27,7 @@ weight: 1
 	<div class="6u$ 12u$(small)">
 		<h3>Schafft Gesprächsstoff.</h3>
 		<p>Denn neben dem Logo, bleibt noch Platz für eine Botschaft, die dir in dieser Veranstaltung besonders wichtig ist. Wenn du moderierst, kann das auch der Kerngedanke deines momentan gegebenem Inputs sein. Wenn du als Teilnehmer*in dabei bist, könnte das ein Statement sein, mit dem du in die Veranstaltung gehst. So entsteht in Beakout-Sessions garantiert kein Schweigen.</p>
+</div>
 
 <div class="row">
 	<div class="6u 12u$(small)">
