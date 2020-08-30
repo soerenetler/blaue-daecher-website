@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Blog
-description: 
-image: 
-nav-menu: true
-weight: 4
+title: Garantiert auffallen mit virtuellen Hintergründen
+description: Vier Wege, wie du einen eigenen virtuellen Hintergrund erstellen kannst
+image: assets/images/2020_08_30_blog_virtuelle_hintergruende.png
 ---
 
 <h2>Vier Wege, wie du einen eigenen virtuellen Hintergrund erstellen kannst</h2>
