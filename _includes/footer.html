@@ -5,14 +5,15 @@
 			<div class="contact-method">
 			<span class="icon alt fa-envelope"></span>
 			<h3>Newsletter</h3>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+
+			<form method="post" action="https://sendfox.com/form/m8xxev/1j6xxq" class="sendfox-form" id="1j6xxq" data-async="true" data-recaptcha="true">
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
+					<input type="text" name="first_name" id="name" />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="email" name="email" id="email" />
 				</div>
 				<!--div class="field">
 					<label for="message">Message</label>
@@ -23,6 +24,7 @@
 					<!--li><input type="reset" value="Clear" /></li-->
 				</ul>
 			</form>
+			<script src="https://sendfox.com/js/form.js"></script>
 		</div>
 		</section>
 		<section class="split">
