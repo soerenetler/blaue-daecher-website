@@ -31,21 +31,30 @@ weight: 1
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<div class="6u 12u$(small)">
-			<ul class="actions vertical">
-				<li><a href="#" class="button special fit">Herunterladen</a></li>
-			</ul>
+		<div class="box alt">
+				<div class="6u" style="float: right; margin: 5px"><span class="image fit" >
+					<a href="{% link assets/images/virtueller_hintergrund01.png %}" download>
+					<img src="{% link assets/images/virtueller_hintergrund01.png %}" alt="" />
+					</a>
+				</span></div>
+				<div class="6u$" style="float: right; margin: 5px"><span class="image fit">
+					<a href="{% link assets/images/virtueller_hintergrund02.png %}" download>
+					<img src="{% link assets/images/virtueller_hintergrund02.png %}" alt="" />
+					</a>
+				</span></div>
 		</div>
 	</div>
 	<div class="6u 12u$(small)">
 		<div class="box alt">
-			<div class="row 50% uniform">
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/virtueller_hintergrund01.png %}" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/virtueller_hintergrund02.png %}" alt="" /></span></div>
-				<!-- Break -->
-				<div class="4u"><span class="image fit"><img src="{% link assets/images/virtueller_hintergrund03.png %}" alt="" /></span></div>
-				<div class="4u$"><span class="image fit"><img src="{% link assets/images/virtueller_hintergrund04.png %}" alt="" /></span></div>
-			</div>
+				<div class="6u" style="float: left; margin: 5px"><span class="image fit">
+				<a href="{% link assets/images/virtueller_hintergrund03.png %}" download>
+				<img src="{% link assets/images/virtueller_hintergrund03.png %}" alt="" />
+				</a></span></div>
+				<div class="6u$" style="float: left; margin: 5px"><span class="image fit">
+				<a href="{% link assets/images/virtueller_hintergrund04.png %}" download>
+				<img src="{% link assets/images/virtueller_hintergrund04.png %}" alt="" />
+				</a>
+				</span></div>
 		</div>
 	</div>
 </div>
