@@ -67,7 +67,7 @@
 		font-weight: _font(weight-bold);
 		letter-spacing: _font(letter-spacing-alt);
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
-		text-transform: uppercase;
+		//text-transform: uppercase;
 	}
 
 	input[type="text"],
@@ -133,7 +133,8 @@
 	}
 
 	input[type="checkbox"],
-	input[type="radio"], {
+	input[type="radio"], 
+	select{
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;

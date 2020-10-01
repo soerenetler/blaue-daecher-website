@@ -212,8 +212,12 @@
 					$banner.scrollex({
 						bottom:		$header.height() + 10,
 						terminate:	function() { $header.removeClass('alt'); },
-						enter:		function() { $header.addClass('alt'); },
-						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); }
+						enter:		function() { $header.addClass('alt'); 
+												 $(".logo img").attr("src","assets/images/Logo_mitSchriftzug.png"),
+												 $(".logo").attr("style", "padding-top: 1.5em;")},
+						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); 
+												 $(".logo img").attr("src","assets/images/Logo_mitSchriftzug_weiss.png"),
+												 $(".logo").attr("style", "padding-top: 0.5em;")}
 					});
 
 					window.setTimeout(function() {

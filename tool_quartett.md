@@ -308,7 +308,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
 		</div>
 		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+			<input type="email" name="demo-email" id="demo-email" value="" placeholder="E-mail" />
 		</div>
 		<!-- Break -->
 		<div class="12u$">
@@ -338,7 +338,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<!-- Break -->
 		<div class="6u 12u$(small)">
 			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
+			<label for="demo-copy">E-mail me a copy</label>
 		</div>
 		<div class="6u$ 12u$(small)">
 			<input type="checkbox" id="demo-human" name="demo-human" checked>
